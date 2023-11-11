@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Tashasoroka
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning QA engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tashasoroka@gmail.com
 
 <!---
